@@ -1,8 +1,9 @@
 Team Members:
+Pramangshu Das(Team Lead)
 Adwitiya Santra,
 Rani Bhattacharya,
 Stuti Biswas,
-Pramangshu Das
+
 
 Components:
 Arduino Uno,
@@ -17,3 +18,5 @@ Wire Cutter,
 Male Female Header,
 5.5mm DC Jack,
 Screw Terminal
+
+Access my link for assemble video - https://drive.google.com/drive/u/0/folders/14bPC7t38F9AaFz_52YyaBsM-UdGBXxS0
